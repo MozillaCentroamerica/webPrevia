@@ -1,0 +1,21 @@
+img.logo-navegacion{
+  width: 90px;
+  height: auto;
+}
+
+nav.navegacion ul li{
+  display: inline;
+  margin:10px;
+  padding: 0 20px 10px 0;
+}
+
+#internet-Mozilla {
+  background-color:#d7d9f2;
+}
+#textoFooter{
+  align-content:center;
+}
+
+.content {
+
+}
